@@ -50,19 +50,6 @@ Task-2-Abhinav_Marrela/
 
 ---
 
-## 🖥️ Output Screenshots
-
-### 1. Portfolio Website
-![Portfolio Website](outputs/1.png)
-
-### 2. GitHub Commit History
-![GitHub Commits](outputs/2.png)
-
-### 3. Git Commands Executed
-![Git Commands](outputs/3.png)
-
----
-
 ## ⚙️ Installation & Setup
 
 ```bash
